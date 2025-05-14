@@ -1,0 +1,7 @@
+application/config/database.php
+application/config/config.php
+application/logs/*
+index.php
+.htaccess
+/vendor
+__application/*

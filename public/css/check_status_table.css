@@ -1,0 +1,63 @@
+.table {
+    border: 1px solid #bfbfbf;
+}
+
+#healthD .table .thead-dark th {
+    color: rgb(52, 52, 52);
+    background-color: #f2f2f2;
+}
+
+#healthD .table thead th {
+    border-bottom: none;
+    position: sticky;
+    top: 0
+}
+
+#healthD .table td,
+#healthD .table th {
+    border: none;
+    padding: 0.50rem 1rem;
+}
+
+
+
+#info .table thead th {
+    border-bottom: none;
+}
+
+
+
+
+#info .table th {
+    border: none;
+    padding: 0.50rem 1rem;
+    font-size: 14px;
+     color: #666666;
+}
+
+#info .table td {
+ border: none;
+    padding: 0.25rem 1rem 0.50rem 1rem;
+    font-size: 14px;
+     color: #666666;
+}
+
+#num {
+    width: 50px;
+    height: 30px;
+}
+
+
+
+.table-wrap {
+    max-height: 600px;
+    overflow: scroll;
+}
+
+#info .table .thead-dark th {
+    color: #595959;
+    background-color: #f2f2f2;
+    font-size: 14px;
+}
+
+
